@@ -1,0 +1,1 @@
+console.log('JavaScript'); //Выводит строку "JavaScript" в консоль
